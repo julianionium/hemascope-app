@@ -1,1 +1,0 @@
-data/raw holds source data copied from the research repo julianionium/NASA_JC_AA_2026. OSD-569_Complete_Blood_Count.csv is Inspiration4 complete blood count data from NASA OSDR (OSD-569), used for the demo crew profiles and lab reference ranges. data/processed and config hold files generated from the research analysis. Do not edit generated files by hand.
